@@ -1,0 +1,24 @@
+.capp{
+    margin: 2%;
+    padding: 2%;
+}
+.table{
+    border: 1px;
+    border-color: solid red;
+    border-radius: 20px;
+    bord
+    height: auto;
+    width: 100%;
+}
+.table :hover{
+    border-color: aqua;
+    background-color: bisque;
+}
+.tr:hover{
+    background-color:aliceblue;
+    border-radius: 10px;
+}
+.tr :hover{
+    background-color:chartreuse;
+}
+/* border="1px" bordercolor="green" style="height: 85px; width: 400px;" */
