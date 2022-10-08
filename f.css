@@ -21,4 +21,7 @@
 .tr :hover{
     background-color:chartreuse;
 }
+.caption :hover{
+    color:red;
+}
 /* border="1px" bordercolor="green" style="height: 85px; width: 400px;" */
